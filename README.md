@@ -1,31 +1,26 @@
-# 🌺 Orchid Detection
-Proyek ini adalah sistem sederhana untuk **mendeteksi bunga anggrek** menggunakan **model CNN** yang dilatih di **Google Colab**, kemudian di-deploy menggunakan **Streamlit**.
+🌺 Orchid Detection
+This project is a simple system for detecting orchid flowers using a CNN model trained on Google Colab and deployed using Streamlit.
 
----
+📌 Features
+Detection and classification of orchid flower images
 
-## 📌 Fitur
+Model training conducted on Google Colab
 
-- Deteksi dan klasifikasi gambar bunga anggrek  
-- Pelatihan model dilakukan di Google Colab  
-- Aplikasi deteksi berbasis web dengan Streamlit  
-- Mudah dijalankan secara lokal
+Web-based detection app with Streamlit
 
----
+Easy to run locally
 
-## 🌿 Spesies Anggrek
+🌿 Orchid Species
+The model detects several orchid species:
 
-Model mendeteksi beberapa jenis anggrek:
-- **Phalaenopsis**
-- **Vanda**
-- **Dendrobium**
-- **Cattleya**
-- **Paphiopedilum**
-- **Vanilla**
+Phalaenopsis
 
-![hasil](https://github.com/user-attachments/assets/0949a0a1-7f9e-4457-b38b-39e755b61523)
+Vanda
 
----
+Dendrobium
 
-## 📂 Dataset
+Cattleya
 
-Dataset: [Orchid Flowers Dataset on Kaggle](https://www.kaggle.com/datasets/mikful/orchids)
+Paphiopedilum
+
+Vanilla
