@@ -1,7 +1,4 @@
 # 🌺 Orchid Detection
-
-![hasil](https://github.com/user-attachments/assets/0949a0a1-7f9e-4457-b38b-39e755b61523)
-
 Proyek ini adalah sistem sederhana untuk **mendeteksi bunga anggrek** menggunakan **model CNN** yang dilatih di **Google Colab**, kemudian di-deploy menggunakan **Streamlit**.
 
 ---
